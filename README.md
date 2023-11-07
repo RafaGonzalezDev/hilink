@@ -11,9 +11,11 @@ Hilink is a web application that provides users with a platform to explore and j
 #### Installation and Configuration
 
 To set up the project locally, follow these steps:
-Clone the repository to your local machine.
-Install the required dependencies by running `npm install` or `yarn install`.
-Start the development server by running `npm start` or `yarn start`.
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running `npm install` or `yarn install`.
+3. Start the development server by running `npm start` or `yarn start`.
+
 The application should now be running on `http://localhost:3000`.
 
 #### Contributing
