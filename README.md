@@ -2,6 +2,8 @@
 
 #### Description
 
+![Project Showcase](./public/preview_hilink.png)
+
 Hilink is a web application that provides users with a platform to explore and join outdoor adventures around the world. The application offers features such as real-time maps that can be used offline, adventure scheduling, augmented reality technology to guide users on their hiking trails, and new locations every month.
 
 #### Installation and Configuration
